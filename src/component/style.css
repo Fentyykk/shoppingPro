@@ -1,0 +1,55 @@
+.logo img {
+    width: 10vh;
+    height: 10vh;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.nav-item {
+    font-size: 15px !important;
+    font-weight: bold !important;
+
+}
+
+.navbar {
+    background-color: #B9E0FF !important;
+
+
+}
+
+.nav-link {
+    font-size: 15px;
+}
+
+.navbar .nav-link {
+    margin: 0 10px !important;
+}
+
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url('https://is4.fwrdassets.com/images/p/fw/z/AALA-WI2_V2.jpg');
+    height: 75vh;
+    background-size: contain;
+    background-position: center;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.hero h2 {
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+    font-weight: bold;
+
+}
+.box-mod{
+    background-color: white;
+    width: 650px;
+    height: 600px;
+    margin: auto;
+    margin-top: 80px;
+}
